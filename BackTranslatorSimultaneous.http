@@ -1,0 +1,6 @@
+@BackTranslatorSimultaneous_HostAddress = http://localhost:5237
+
+GET {{BackTranslatorSimultaneous_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
