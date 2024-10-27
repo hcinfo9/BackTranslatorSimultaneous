@@ -1,6 +1,7 @@
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using BackTranslatorSimultaneous.Services.Interfaces;
+using BackTranslatorSimultaneous.DTOs;
 
 namespace BackTranslatorSimultaneous.Controllers
 {

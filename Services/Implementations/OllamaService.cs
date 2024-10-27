@@ -24,7 +24,7 @@ public class OllamaService : IOllamaService
             string url = $"{_configuration["Ollama:BaseUrl"]}/generate";
 
             var request = new StringContent(
-                JsonSerializer.Serialize(new { model = "llama3", prompt = prompt }), Encoding.UTF8, "application/json"
+                JsonSerializer.Serialize(new { model = "llama3.2", prompt = prompt }), Encoding.UTF8, "application/json"
             );
 
             _logger.LogInformation("Sending request to Ollama API at {url}.", url);

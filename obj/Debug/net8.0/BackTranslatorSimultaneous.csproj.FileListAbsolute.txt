@@ -37,7 +37,6 @@ C:\Users\Henrique Donato\Desktop\Projetos\Project_Translator Simultaneous\BackTr
 C:\Users\Henrique Donato\Desktop\Projetos\Project_Translator Simultaneous\BackTranslatorSimultaneous\BackTranslatorSimultaneous\obj\Debug\net8.0\BackTranslatorSimultaneous.csproj.CoreCompileInputs.cache
 C:\Users\Henrique Donato\Desktop\Projetos\Project_Translator Simultaneous\BackTranslatorSimultaneous\BackTranslatorSimultaneous\obj\Debug\net8.0\BackTranslatorSimultaneous.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Henrique Donato\Desktop\Projetos\Project_Translator Simultaneous\BackTranslatorSimultaneous\BackTranslatorSimultaneous\obj\Debug\net8.0\BackTranslatorSimultaneous.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Henrique Donato\Desktop\Projetos\Project_Translator Simultaneous\BackTranslatorSimultaneous\BackTranslatorSimultaneous\obj\Debug\net8.0\BackTranslatorSimultaneous.sourcelink.json
 C:\Users\Henrique Donato\Desktop\Projetos\Project_Translator Simultaneous\BackTranslatorSimultaneous\BackTranslatorSimultaneous\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Henrique Donato\Desktop\Projetos\Project_Translator Simultaneous\BackTranslatorSimultaneous\BackTranslatorSimultaneous\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Henrique Donato\Desktop\Projetos\Project_Translator Simultaneous\BackTranslatorSimultaneous\BackTranslatorSimultaneous\obj\Debug\net8.0\staticwebassets\msbuild.BackTranslatorSimultaneous.Microsoft.AspNetCore.StaticWebAssets.props
@@ -52,3 +51,9 @@ C:\Users\Henrique Donato\Desktop\Projetos\Project_Translator Simultaneous\BackTr
 C:\Users\Henrique Donato\Desktop\Projetos\Project_Translator Simultaneous\BackTranslatorSimultaneous\BackTranslatorSimultaneous\obj\Debug\net8.0\BackTranslatorSimultaneous.pdb
 C:\Users\Henrique Donato\Desktop\Projetos\Project_Translator Simultaneous\BackTranslatorSimultaneous\BackTranslatorSimultaneous\obj\Debug\net8.0\BackTranslatorSimultaneous.genruntimeconfig.cache
 C:\Users\Henrique Donato\Desktop\Projetos\Project_Translator Simultaneous\BackTranslatorSimultaneous\BackTranslatorSimultaneous\obj\Debug\net8.0\ref\BackTranslatorSimultaneous.dll
+C:\Users\Henrique Donato\Desktop\Projetos\Project_Translator Simultaneous\BackTranslatorSimultaneous\BackTranslatorSimultaneous\bin\Debug\net8.0\NAudio.dll
+C:\Users\Henrique Donato\Desktop\Projetos\Project_Translator Simultaneous\BackTranslatorSimultaneous\BackTranslatorSimultaneous\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\Henrique Donato\Desktop\Projetos\Project_Translator Simultaneous\BackTranslatorSimultaneous\BackTranslatorSimultaneous\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\Henrique Donato\Desktop\Projetos\Project_Translator Simultaneous\BackTranslatorSimultaneous\BackTranslatorSimultaneous\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\Henrique Donato\Desktop\Projetos\Project_Translator Simultaneous\BackTranslatorSimultaneous\BackTranslatorSimultaneous\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\Henrique Donato\Desktop\Projetos\Project_Translator Simultaneous\BackTranslatorSimultaneous\BackTranslatorSimultaneous\bin\Debug\net8.0\NAudio.WinMM.dll
